@@ -3,13 +3,13 @@
 
  
 
-:computer: Eu sou uma desenvolvedora Full Stack!
+:computer: Eu sou uma desenvolvedora backend.
 
 :house_with_garden: Sou de Salvador-BA.
 
-:books: Atualmente estou aprendendo TDD e Typescript
+:books: Atualmente estou me especializando em Java e Node. 
 
-:outbox_tray: Meu objetivo é continuar evoluindo como dev (:rocket:).
+
 
  
 
