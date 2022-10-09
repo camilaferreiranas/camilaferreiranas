@@ -7,7 +7,7 @@
 
 :house_with_garden: Sou de Salvador-BA.
 
-:books: Atualmente estou me especializando em Java e Node. 
+:books: Atualmente estou me especializando em Java.
 
 
 
