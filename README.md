@@ -3,11 +3,11 @@
 
  
 
-:computer: Eu sou uma desenvolvedora backend.
+:computer: Eu sou uma desenvolvedora frontend.
 
 :house_with_garden: Sou de Salvador-BA.
 
-:books: Atualmente estou me especializando em Java.
+:books: Atualmente estou me especializando em React.Js.
 
 
 
