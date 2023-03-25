@@ -3,7 +3,7 @@
 
 - 🔭 No momento estou trabalhando com **Angular 14 e Java 11**
 
-- 🌱 Estou me especializando em **Java**
+- 🌱 Estou me especializando em **Backend** (Java, Golang)
 
 <h3 align="left">Onde me achar:</h3>
 <p align="left">
