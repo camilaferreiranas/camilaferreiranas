@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Camila Ferreira</h1>
 <h3 align="center">Eu sou uma Engenheira de Software com foco em backend.</h3>
 
-- 🔭 No momento estou trabalhando com **Angular 14 e Java 11**
+- 🔭 No momento estou trabalhando com **Angular e Java EE**
 
 - 🌱 Estou estudando  **Arquitetura de software** e **Golang**
 
