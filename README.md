@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Camila Ferreira</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- 🔭 At the moment i'm working with **Angular and Java EE**
+- 🔭 At the moment i'm working with **React.js, AWS and Spring Boot**
 - 🫀 I like to work with **Spring**, **Microservices** and **AWS** 
 - 🌱 I'm studying **Software Architecture** , **Quarkus**, **Best Practices(TDD, Design Patterns and SOLID)** and **AWS**.
 
