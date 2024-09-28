@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Camila Ferreira</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- 🔭 At the moment i'm working with **Spring Boot and Microservices**
-- 🫀 I like to work with **Spring**, **Microservices** and **AWS** 
-- 🌱 I'm studying **Software Architecture** , **Quarkus**, **Best Practices(TDD, Design Patterns and SOLID)** and **AWS**.
+- 🔭 At the moment i'm working with **Spring Boot**
+- 🫀 I like to work with **Spring**, **Microservices**, **TDD** and **AWS** 
+- 🌱 I'm studying **Software Architecture** , **Quarkus**, **DDD** ,  **Best Practices(TDD, Design Patterns, SOLID)** and **AWS**.
 
 <h3 align="left">Contact forms:</h3>
 <p align="left">
