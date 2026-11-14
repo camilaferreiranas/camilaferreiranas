@@ -1,13 +1,17 @@
 <h1 align="center">Hello 👋, my name is Camila Ferreira</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- 🔭 At the moment i'm working with **Spring Boot**
+- 🔭 At the moment i'm working with **Spring Boot** and **GraphQL**
 - 🫀 I like to work with **Spring**, **Microservices**, **TDD** and **AWS** 
-- 🌱 I'm studying **Software Architecture** , **Quarkus**, **DDD** ,  **Best Practices(TDD, Design Patterns, SOLID)** and **AWS**.
+- 🌱 I'm studying **Software Architecture** , **DDD** , **AI Tooling** ,  **Best Practices(TDD, Design Patterns, SOLID)** and **AWS**.
 
 <h3 align="left">Contact forms:</h3>
+
+<a href="https://www.camilaferreiranas.dev/"  target="blank"> Web Portfolio </a>
 <p align="left">
+  
 <a href="https://linkedin.com/in/camilaferreiranas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilaferreiranas" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
